@@ -1,2 +1,1485 @@
-<h>Hello Welcome</h>
-<p>how are you?</p>
+<!DOCTYPE html><html lang="zxx"><head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    
+    <meta name="theme-color" content="#ee3158">
+    
+    <meta name="msapplication-navbutton-color" content="#ee3158">
+    <meta name="msapplication-TileColor" content="#FFFFFF">
+    <meta name="msapplication-TileImage" content="favicon.ico">
+    
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-transcluent">
+    <title>Celebritygraphixstudios</title>
+    <style>
+      .background-image {
+        background-image: url('https://img.freepik.com/premium-photo/ai-generate-art-flowers-color-full-photos-background_812649-49.jpg'); /* Replace with your image path */
+        background-size: cover; /* Adjusts the background image to cover the entire area */
+        background-position: left; /* Centers the background image */
+        color: white; /* Change text color for better visibility if needed */
+        padding: 30px; /* Add padding to the heading for better spacing */
+    }
+    
+    </style>
+    
+    <script src="js/ie-support.min.js" defer=""></script>
+    
+    <link rel="stylesheet" href="css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/swiper.min.css">
+    <link rel="stylesheet" href="css/magnific-popup.min.css">
+    <link rel="stylesheet" href="css/aos.min.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/main.css">
+    </head>
+    
+    <body>
+    
+    <div class="loader">
+    <div class="loading">
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    <div></div>
+    </div>
+    </div>
+    <div id="main-wrapper" class="wrapper-hidden z-index-100">
+    
+    <nav class="navigation navigation-type-2">
+    <div class="inner-wrapper">
+    <div class="navigation-wrapper">
+    <div class="logotype-wrapper">
+    <a href="index.html">
+    <img src="cele-logo.png" alt="Logo">
+    </a>
+    </div>
+    <div class="right-side">
+    <div class="menu-list-wrapper">
+    <ul class="menu-list">
+    <li class="menu-item menu-item-has-children">
+    <a>Home</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="#">Home Default</a>
+    
+    <li class="menu-item menu-item-has-children">
+    <a>
+    Home Canvas
+    </a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="#">Default
+    Particles</a></li>
+    <li class="menu-item"><a href="#">Color
+    Particles</a></li>
+    <li class="menu-item"><a href="#">Circle
+    Particles</a></li>
+    <li class="menu-item"><a href="#">Gravity
+    Particles</a></li>
+    <li class="menu-item"><a href="#">Particles
+    Net</a></li>
+    <li class="menu-item"><a href="#">Connect
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-moving-stars.html">Moving
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-confetti-particles.html">Confetti
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-wave-particles.html">Wave
+    Particles</a></li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Pages</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>About</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="about-modern.html">About Us Modern</a>
+    </li>
+    <li class="menu-item">
+    <a href="#">About Us Creative</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item"><a href="services.html">Services</a></li>
+    <li class="menu-item"><a href="contacts.html">Contacts</a></li>
+    <li class="menu-item"><a href="team.html">Team</a></li>
+    <li class="menu-item"><a href="404.html">404 Error Page</a></li>
+    <li class="menu-item"><a href="clients.html">Clients</a></li>
+    <li class="menu-item"><a href="pricing.html">Pricing</a></li>
+    <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
+    <li class="menu-item"><a href="faq.html">FAQ</a></li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>Blog Standard</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="#">Default Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog Grid</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="index.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="index.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog Masonry</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="index.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-masonry-sidebar-layout.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog List</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-list-default-layout.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-list-sidebar-layout.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Single Post</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-single-post-default-layout.html">Default Post</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-single-post-sidebar-layout.html">Sidebar Post</a>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Project</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>Grid</a>
+    <ul class="sub-menu">
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Masonry</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="portfolio-masonry-two-columns.html">Two
+    Columns</a></li>
+    <li class="menu-item"><a href="portfolio-masonry-three-columns.html">Three
+    Columns</a></li>
+    <li class="menu-item"><a href="portfolio-masonry-four-columns.html">Four
+    Columns</a></li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Additional</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="portfolio-carousel.html">Carousel</a>
+    </li>
+    <li class="menu-item"><a href="portfolio-parallax.html">Parallax</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Gallery</a>
+    <ul class="sub-menu">
+    
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Works</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="project-video.html">Video</a></li>
+    <li class="menu-item"><a href="project-carousel.html">Carousel</a></li>
+    <li class="menu-item"><a href="project-grid.html">Grid</a></li>
+    <li class="menu-item"><a href="project-stack.html">Stack</a></li>
+    <li class="menu-item"><a href="project-slider.html">Slider</a></li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Web App</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>General</a>
+    <ul class="sub-menu">
+    <li><a href="#"><i class="far fa-circle icon-description"></i>Buttons</a>
+    </li>
+    <li><a href="#"><i class="fa fa-window-maximize icon-description"></i>Tabs</a></li>
+    <li><a href="#"><i class="fa fa-list-alt icon-description"></i>Accordions</a></li>
+    <li><a href="#"><i class="fa fa-briefcase icon-description"></i>Icon Boxes</a>
+    </li>
+    <li><a href="#"><i class="fas fa-money-bill-alt icon-description"></i>Pricing Tables</a>
+    </li>
+    <li><a href="#"><i class="fa fa-paper-plane icon-description"></i>Contact Forms</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a class="megamenu-title">Additional</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href=""><i class="fa fa-font icon-description"></i>Headings</a>
+    </li>
+    <li class="menu-item">
+    <a href="#"><i class="fa fa-table icon-description"></i>Tables</a>
+    </li>
+    <li class="menu-item">
+    <a href="#"><i class="fa fa-list-ul icon-description"></i>Lists</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-blockquotes.html"><i class="fa fa-quote-left icon-description"></i>Blockquotes</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-social.html"><i class="fab fa-twitter icon-description"></i>Social Icons</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-columns.html"><i class="fa fa-columns icon-description"></i>Columns</a>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </div>
+    <ul class="social-list">
+    <li>
+    <a href="https://themeforest.net/user/jd-themes">
+    <i class="fab fa-facebook-f" style="color: #3B5999;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://themeforest.net/user/jd-themes">
+    <i class="fab fa-twitter" style="color: #1DA1F2;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://themeforest.net/user/jd-themes">
+    <i class="fab fa-behance" style="color: #053EFF;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://themeforest.net/user/jd-themes">
+    <i class="fab fa-reddit" style="color: #FF4301;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://themeforest.net/user/jd-themes">
+    <i class="fab fa-dribbble" style="color: #EA4C89;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://themeforest.net/user/jd-themes">
+    <i class="fab fa-vine" style="color: #00B488;"></i>
+    </a>
+    </li>
+    </ul>
+    <div class="search-form-toggle">
+    <i class="fa fa-search"></i>
+    </div>
+    </div>
+    </div>
+    <div class="search-form-wrapper">
+    <div class="search-form">
+    <div class="form-wrapper">
+    <form role="search">
+    <input type="search" class="search-field" placeholder="Enter some keywords..." title="Enter some keywords...">
+    <button type="submit" class="search-submit">
+    <i class="icofont-search"></i>
+    </button>
+    </form>
+    <div class="search-form-close">
+    <i class="far fa-times-circle"></i>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </nav>
+    <nav class="navigation-mobile">
+    <div class="inner-wrapper">
+    
+    <div class="logotype-wrapper">
+    <a href="index.html">
+    <img src="images/logo-dark.png" alt="Logo">
+    </a>
+    </div>
+    <div class="navigation-side">
+    <div class="search-form-toggle toggle-button">
+    <i class="fa fa-search"></i>
+    </div>
+    <div class="menu-toggle-wrapper">
+    <div class="menu-toggle toggle-button">
+    <i class="fa fa-bars"></i>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="search-form-wrapper">
+    <div class="search-form">
+    <div class="form-wrapper">
+    <form role="search">
+    <input type="search" class="search-field" placeholder="Enter some keywords..." title="Enter some keywords...">
+    <button type="submit" class="search-submit">
+    <i class="icofont-search"></i>
+    </button>
+    </form>
+    <div class="search-form-close">
+    <i class="far fa-times-circle"></i>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="menu-list-wrapper" data-back-link="go back">
+    <div class="menu-toggle-close">
+    <i class="far fa-times-circle"></i>
+    </div>
+    <ul class="menu-list">
+    <li class="menu-item menu-item-has-children">
+    <a>Home</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="home-default.html">Home Default</a>
+    </li>
+    <li class="menu-item">
+    <a href="index.html">Home Gradient</a>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Home Slider</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="home-slider-default.html">Slider
+    Default</a></li>
+    <li class="menu-item"><a href="home-slider-fade.html">Slider Fade</a>
+    </li>
+    <li class="menu-item"><a href="home-slider-vertical.html">Slider
+    Vertical</a></li>
+    <li class="menu-item"><a href="home-slider-cube.html">Slider 3D
+    Cube</a></li>
+    <li class="menu-item"><a href="home-slider-coverflow.html">Slider
+    Coverflow</a></li>
+    <li class="menu-item"><a href="home-slider-flip.html">Slider Flip</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Home Video</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="home-html-video.html">HTML
+    Video</a>
+    </li>
+    <li class="menu-item"><a href="home-youtube-video.html">Youtube
+    Video</a></li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>
+    Home Canvas
+    </a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="home-canvas-default-particles.html">Default
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-color-particles.html">Color
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-circles-particles.html">Circle
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-gravity-particles.html">Gravity
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-3d-particles.html">Particles
+    Net</a></li>
+    <li class="menu-item"><a href="home-canvas-connect-particles.html">Connect
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-moving-stars.html">Moving
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-confetti-particles.html">Confetti
+    Particles</a></li>
+    <li class="menu-item"><a href="home-canvas-wave-particles.html">Wave
+    Particles</a></li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Pages</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>About</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="about-modern.html">About Us Modern</a>
+    </li>
+    <li class="menu-item">
+    <a href="about-creative.html">About Us Creative</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item"><a href="services.html">Services</a></li>
+    <li class="menu-item"><a href="contacts.html">Contacts</a></li>
+    <li class="menu-item"><a href="team.html">Team</a></li>
+    <li class="menu-item"><a href="404.html">404 Error Page</a></li>
+    <li class="menu-item"><a href="clients.html">Clients</a></li>
+    <li class="menu-item"><a href="pricing.html">Pricing</a></li>
+    <li class="menu-item"><a href="coming-soon.html">Coming Soon</a></li>
+    <li class="menu-item"><a href="faq.html">FAQ</a></li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>Blog Standard</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-standard-default-layout.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-standard-sidebar-layout.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog Grid</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-grid-default-layout.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-grid-sidebar-layout.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog Masonry</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-masonry-default-layout.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-masonry-sidebar-layout.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Blog List</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-list-default-layout.html">Default Layout</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-list-sidebar-layout.html">Sidebar Layout</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Single Post</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="blog-single-post-default-layout.html">Default Post</a>
+    </li>
+    <li class="menu-item">
+    <a href="blog-single-post-sidebar-layout.html">Sidebar Post</a>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Portfolio</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>Grid</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="portfolio-grid-two-columns.html">Two
+    Columns</a></li>
+    <li class="menu-item"><a href="portfolio-grid-three-columns.html">Three
+    Columns</a></li>
+    <li class="menu-item"><a href="portfolio-grid-four-columns.html">Four
+    Columns</a></li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Masonry</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="portfolio-masonry-two-columns.html">Two
+    Columns</a></li>
+    <li class="menu-item"><a href="portfolio-masonry-three-columns.html">Three
+    Columns</a></li>
+    <li class="menu-item"><a href="portfolio-masonry-four-columns.html">Four
+    Columns</a></li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Additional</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="portfolio-carousel.html">Carousel</a>
+    </li>
+    <li class="menu-item"><a href="portfolio-parallax.html">Parallax</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Gallery</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="portfolio-image-gallery.html">Gallery
+    Default</a></li>
+    <li class="menu-item"><a href="portfolio-horizontal-gallery.html">Gallery
+    Horizontal</a></li>
+    <li class="menu-item"><a href="portfolio-carousel-gallery.html">Gallery
+    Carousel</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Works</a>
+    <ul class="sub-menu">
+    <li class="menu-item"><a href="project-mixed-1.html">Mixed type 1</a>
+    </li>
+    <li class="menu-item"><a href="project-mixed-2.html">Mixed type 2</a>
+    </li>
+    <li class="menu-item"><a href="project-mixed-3.html">Mixed type 3</a>
+    </li>
+    <li class="menu-item"><a href="project-fullscreen.html">Fullscreen</a>
+    </li>
+    <li class="menu-item"><a href="project-video.html">Video</a></li>
+    <li class="menu-item"><a href="project-carousel.html">Carousel</a></li>
+    <li class="menu-item"><a href="project-grid.html">Grid</a></li>
+    <li class="menu-item"><a href="project-stack.html">Stack</a></li>
+    <li class="menu-item"><a href="project-slider.html">Slider</a></li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a>Elements</a>
+    <ul class="sub-menu">
+    <li class="menu-item menu-item-has-children">
+    <a>General</a>
+    <ul class="sub-menu">
+    <li><a href="elements-buttons.html"><i class="far fa-circle icon-description"></i>Buttons</a>
+    </li>
+    <li><a href="elements-tabs.html"><i class="fa fa-window-maximize icon-description"></i>Tabs</a></li>
+    <li><a href="elements-accordions.html"><i class="fa fa-list-alt icon-description"></i>Accordions</a></li>
+    <li><a href="elements-icon-boxes.html"><i class="fa fa-briefcase icon-description"></i>Icon Boxes</a>
+    </li>
+    <li><a href="elements-pricing-tables.html"><i class="fas fa-money-bill-alt icon-description"></i>Pricing Tables</a>
+    </li>
+    <li><a href="elements-forms.html"><i class="fa fa-paper-plane icon-description"></i>Contact Forms</a>
+    </li>
+    </ul>
+    </li>
+    <li class="menu-item menu-item-has-children">
+    <a class="megamenu-title">Additional</a>
+    <ul class="sub-menu">
+    <li class="menu-item">
+    <a href="elements-headings.html"><i class="fa fa-font icon-description"></i>Headings</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-tables.html"><i class="fa fa-table icon-description"></i>Tables</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-lists.html"><i class="fa fa-list-ul icon-description"></i>Lists</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-blockquotes.html"><i class="fa fa-quote-left icon-description"></i>Blockquotes</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-social.html"><i class="fab fa-twitter icon-description"></i>Social Icons</a>
+    </li>
+    <li class="menu-item">
+    <a href="elements-columns.html"><i class="fa fa-columns icon-description"></i>Columns</a>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+    </div>
+    </nav>
+    
+    <section class="hero-header hero-default" data-section-type="background_gradient">
+    <div class="gradient-background">
+    </div>
+    <div class="container hero-content hero-center d-flex align-items-center">
+    <div class="content-default">
+      <h1 class="display-3 content-heading bold-heading z-index-100 background-image" data-aos="zoom-in" data-aos-delay="900" data-aos-easing="ease-in-out" data-aos-duration="700">
+        WELCOME to CELEBRITY GRAPHIX Studios <span class="highlight">.</span>
+    </h1>
+    
+    <p class="subtitle z-index-100" data-aos="zoom-in" data-aos-delay="1100" data-aos-easing="ease-in-out" data-aos-duration="700">Create the hand-crafted look you’ve been dreaming about with our graphic design services</p>
+    
+    <div class="social-type-2 d-flex flex-wrap justify-content-center" data-aos="zoom-in" data-aos-delay="1300" data-aos-easing="ease-in-out" data-aos-duration="700">
+    <a class="social-box facebook-h" href="#">
+    <i class="fab fa-facebook-f"></i>
+    </a>
+    <a class="social-box instagram-h" href="#">
+    <i class="fab fa-instagram"></i>
+    </a>
+    <a class="social-box twitter-h" href="#">
+    <i class="fab fa-twitter"></i>
+    </a>
+    <a class="social-box linkedin-h" href="#">
+    <i class="fab fa-linkedin-in"></i>
+    </a>
+    <a class="social-box google-plus-h" href="#">
+    <i class="fab fa-google-plus-g"></i>
+    </a>
+    </div>
+    </div>
+    <div class="angle-down" data-aos="zoom-in" data-aos-delay="1300" data-aos-anchor=".hero-header" data-aos-easing="ease-in-out" data-aos-duration="700">
+    <p>scroll down</p>
+    <i class="fa fa-chevron-down"></i>
+    </div>
+    </div>
+    </section>
+    
+    <section class="about-creative-section large-section">
+    <div class="container">
+    <div class="container">
+    <div class="row">
+    <div class="col d-flex justify-content-center">
+    <h2 class="section-title text-center title-divider">What We Do <span class="highlight">.</span>
+    </h2>
+    </div>
+    </div>
+    </div>
+    <div class="row images-wrapper">
+    <div class="col-lg-8 col-12 d-flex align-items-center">
+    <div class="img-wrapper">
+    <img src="images/about-creative-1.jpg" alt="" class="img-fluid">
+    </div>
+    </div>
+    <div class="col-lg-4 two-side align-items-center">
+    <div class="img-wrapper">
+    <img src="images/about-creative-2.jpg" alt="" class="img-fluid">
+    </div>
+    </div>
+    </div>
+    <div class="row steps-wrapper">
+    <div class="col-md-4 step-wrapper d-flex">
+    <div>
+    <h2 class="num display-4">01.</h2>
+    </div>
+    <div class="step-body">
+    <h6>Creativity.</h6>
+    <p>Vibrant Colour Palette,3D modeling and Animation,Conceptual Editorial shoots,cinematic lighting,Storytelling through design</p>
+    </div>
+    </div>
+    <div class="col-md-4 step-wrapper d-flex">
+    <div>
+    <h2 class="num display-4">02.</h2>
+    </div>
+    <div class="step-body">
+    <h6>Discover Talents.</h6>
+    <p>Celebrity Graphix Studios offers expert services in graphic design, digital art, branding, web development, social media management, and video production. They specialize in logo design, 3D modeling, animation, photography, brand strategy, custom websites, content creation, and visual effects to enhance your brand’s identity and online presence</p>
+    </div>
+    </div>
+    <div class="col-md-4 step-wrapper d-flex">
+    <div>
+    <h2 class="num display-4">03.</h2>
+    </div>
+    <div class="step-body">
+    <h6>Expert Analysis.</h6>
+    <p>Celebrity Graphix Studios is expert in Graphic Design,Digital Art,Photography,Branding,Web Development,Social Media Management,Video Production</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="digital-services">
+    <div class="container-fluid">
+    <div class="row">
+    <div class="col-lg-6 col-12 content light-gray-section">
+    <div class="content-wrapper">
+    <h3 class="section-title">Digital Services</h3>
+    <p class="subtitle">We are delivering beautiful digital products for you</p>
+    <div class="row">
+    <div class="col-md-6 col-lg-12 col-xl-6">
+    <div class="d-flex service-item-type-2">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fa fa-wrench"></i>
+    </div>
+    <div class="d-flex flex-column">
+    <h6 class="title-service">Web Development</h6>
+    <p class="service-text">We create seamless, user-friendly websites that bring your vision to life</p>
+    </div>
+    </div>
+    </div>
+    <div class="col-md-6 col-lg-12 col-xl-6">
+    <div class="d-flex service-item-type-2">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fa fa-paint-brush"></i>
+    </div>
+    <div class="d-flex flex-column">
+    <h6 class="title-service">Pixel Perfect Design</h6>
+    <p class="service-text">Our designs are crafted with precision, ensuring every detail is flawless for a superior user experience.</p>
+    </div>
+    </div>
+    </div>
+    <div class="col-md-6 col-lg-12 col-xl-6">
+    <div class="d-flex service-item-type-2">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fa fa-bookmark"></i>
+    </div>
+    <div class="d-flex flex-column">
+    <h6 class="title-service">Branding</h6>
+    <p class="service-text">We craft compelling brand identities that resonate with your audience, helping you stand out and make a lasting impression.</p>
+      <li>Establish recognition and credibility</li>
+      <li>Connect with their target audience</li> 
+      <li>Stand out in a competitive market</li>
+      <li>Build loyalty and trust</li>
+      <li>Drive business growth</li>
+    </div>
+    </div>
+    </div>
+    <div class="col-md-6 col-lg-12 col-xl-6">
+    <div class="d-flex service-item-type-2">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fa fa-cog"></i>
+    </div>
+    <div class="d-flex flex-column">
+    <h6 class="title-service">App Development</h6>
+    <p class="service-text">We develop innovative and intuitive apps designed to meet your unique business needs, providing seamless functionality and a top-tier user experience.</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-6 col-12 image parallax-window" data-src="assets/img/assets/mockup-digital-services.jpg">
+    </div>
+    <div class="col-lg-6 col-12 image bg_img parallax-window last-image" data-src="assets/img/assets/mockup-digital-services2.jpg">
+    </div>
+    <div class="col-lg-6 col-12 content-about light-gray-section">
+    <div class="content-wrapper">
+    <h3 class="section-title">Who we are</h3>
+    <p class="about-text">Celebrity Graphix Studios is a creative agency specializing in graphic design, branding, photography, web development, and social media management. They provide innovative solutions to help businesses establish a strong visual identity, engage their audience, and drive growth.
+      Celebrity Graphix Studios aims to deliver high-quality, visually stunning solutions that captivate audiences and elevate brands.
+    </p>
+    <div class="btn-wrapper d-flex">
+    <a href="#about" class="button-default-white">Explore</a>
+    <a href="#team" class="button-default-color">Meet our Team</a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="counters-section-type-2 border-bottom-simple border-top-simple">
+    <div class="container-fluid">
+    <div class="row counters-wrapper justify-content-center">
+    <div class="col-sm-4 col-6 counter-box first-side d-flex flex-column align-items-center"><p class="title-counter">Project Done</p>
+    <span class="prop-obj prop-obj1" data-count="128">0</span>
+    </div>
+    <div class="col-sm-4 col-6 counter-box second-side d-flex flex-column align-items-center">
+    <p class="title-counter">People loved</p>
+    <span class="prop-obj prop-obj2" data-count="256">0</span>
+    </div>
+    <div class="col-sm-4 col-6 counter-box third-side d-flex flex-column align-items-center">
+    <p class="title-counter">Awards received</p>
+    <span class="prop-obj prop-obj3" data-count="512">0</span>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="team-section large-section bg-attachment-fixed bg-size-cover" style="background-image: url('images/inspiration-geometry.png')">
+    <div class="container">
+    <div class="row">
+    <div class="col d-flex justify-content-center">
+    <h2 class="section-title text-center title-divider" id="team">Our Team <span class="highlight">.</span></h2>
+    </div>
+    </div>
+    </div>
+    <div class="container">
+    <div class="swiper-container swiper-team members-slider-type-1">
+    <div class="swiper-wrapper">
+    <div class="swiper-slide">
+    <div class="member-wrapper">
+    <div class="img-wrapper">
+    <img src="kye.jpg" alt="" class="img-fluid">
+    </div>
+    <div class="member-description">
+    <div class="content-wrapper d-flex justify-content-center align-items-end">
+    <div class="content d-flex flex-column align-items-center justify-content-end">
+    <h6 class="name">Safo Oppong</h6>
+    <p class="position">Lead Developer</p>
+    <div class="social-wrapper d-flex">
+    <a class="social-box" href="#"><i class="fab fa-facebook-f"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-twitter"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-google-plus-g"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="swiper-slide ">
+    <div class="member-wrapper">
+    <div class="img-wrapper">
+    <img src="images/member-2.jpg" alt="" class="img-fluid">
+    </div>
+    <div class="member-description">
+    <div class="content-wrapper d-flex justify-content-center align-items-end">
+    <div class="content d-flex flex-column align-items-center justify-content-end">
+    <h6 class="name">Sara Smith</h6>
+    <p class="position">Developer</p>
+    <div class="social-wrapper d-flex">
+    <a class="social-box" href="#"><i class="fab fa-facebook-f"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-twitter"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-google-plus-g"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="swiper-slide ">
+    <div class="member-wrapper">
+    <div class="img-wrapper">
+    <img src="images/ceo.jpg" alt="" class="img-fluid">
+    </div>
+    <div class="member-description">
+    <div class="content-wrapper d-flex justify-content-center align-items-end">
+    <div class="content d-flex flex-column align-items-center justify-content-end">
+    <h6 class="name">Seth Yaw Ntim</h6>
+    <p class="position">Founder &amp; CEO</p>
+    <div class="social-wrapper d-flex">
+    <a class="social-box" href="#"><i class="fab fa-facebook-f"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-twitter"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-google-plus-g"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    
+    <div class="swiper-slide ">
+    <div class="member-wrapper">
+    <div class="img-wrapper">
+    <img src="images/member-5.jpg" alt="" class="img-fluid">
+    </div>
+    <div class="member-description">
+    <div class="content-wrapper d-flex justify-content-center align-items-end">
+    <div class="content d-flex flex-column align-items-center justify-content-end">
+    <h6 class="name">Alex Gray</h6>
+    <p class="position">Lead Developer</p>
+    <div class="social-wrapper d-flex">
+    <a class="social-box" href="#"><i class="fab fa-facebook-f"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-twitter"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-google-plus-g"></i></a>
+    <a class="social-box" href="#"><i class="fab fa-linkedin-in"></i></a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="swiper-pagination-bullets-common"></div>
+    </section>
+    
+    <section class="simple-background blockquote-section-type-1 parallax-window default_overlay" style="background-image: url('images/main-simple-bg.jpg')">
+    <div class="container blockquote-wrapper d-flex align-items-center justify-content-center">
+    <div class="row">
+    <div class="col blockquote-col d-flex justify-content-center">
+    <blockquote>
+    <h4>Create Awesome &amp; Functionality Website With <a href="https://wa.me/+233545454000">Kyekyeku-tech</a> Best Solution for Startup</h4>
+    </blockquote>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="content-section-type-2 flip-section large-section gray-section">
+    <div class="container">
+    <div class="row">
+    <div class="col-lg-6">
+    <div class="flip-container">
+    <div class="img-wrapper">
+    <div class="front side">
+    <img src="images/two-side-img-2.jpg" alt="" class="img-fluid">
+    </div>
+    <div class="back side">
+    <div class="content-wrapper d-flex flex-column justify-content-center align-items-center">
+    <h5>Understand the situation</h5>
+    <p>Nulla metus metus, ullamcorper vel, tincidunt sed, euismod in, nibh. Quisque
+    volutpat condimentum velit class aptent taciti sociosqu ad litora torquent per</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-6" id="about">
+    <div class="row services-wrapper">
+    <div class="col-12 service-wrapper d-flex align-items-center">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fa fa-th"></i>
+    </div>
+    <div class="content-wrapper d-flex flex-column">
+    <h6>Different Layout</h6>
+    <p>We offer flexible and unique layouts to ensure your website is visually engaging and easy to navigate.</p>
+    </div>
+    </div>
+    <div class="col-12 service-wrapper d-flex align-items-center">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fas fa-terminal"></i>
+    </div>
+    <div class="content-wrapper d-flex flex-column">
+    <h6>Code Quality</h6>
+    <p>Our code is clean, efficient, and optimized for performance, ensuring your digital products run smoothly.</p>
+    </div>
+    </div>
+    <div class="col-12 service-wrapper d-flex align-items-center">
+    <div class="icon-wrapper d-flex align-items-center justify-content-center">
+    <i class="fa fas fa-phone-volume"></i>
+    </div>
+    <div class="content-wrapper d-flex flex-column">
+    <h6>Excellent Support</h6>
+    <p>We provide top-notch support to assist you every step of the way, ensuring a seamless experience.</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="projects-section light-gray-section">
+    <div class="container">
+    <div class="button-group button-group-default d-flex justify-content-center">
+    <button data-filter="*" class="active-button">Show All</button>
+    <button data-filter=".branding">Branding</button>
+    <button data-filter=".design">Design</button>
+    <button data-filter=".packaging">Packaging</button>
+    <button data-filter=".advertising">Advertising</button>
+    </div>
+    </div>
+    <div class="container-fluid">
+    <div class="grid row">
+    <div class="grid-item design advertising">
+    <div class="img-wrapper">
+    <img src="images/mockup5.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Cup of coffee</h6>
+    <p class="info">
+    <span>17<i class="fa fa-comments"></i></span>
+    <span>24<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item design">
+    <div class="img-wrapper">
+    <img src="images/mockup1.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Notebook Mockup</h6>
+    <p class="info">
+    <span>13<i class="fa fa-comments"></i></span>
+    <span>21<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item branding packaging advertising">
+    <div class="img-wrapper">
+    <img src="images/mockup3.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Clipboard Stationery</h6>
+    <p class="info">
+    <span>24<i class="fa fa-comments"></i></span>
+    <span>21<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item advertising">
+    <div class="img-wrapper">
+    <img src="images/mockup4.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Paper Bag</h6>
+    <p class="info">
+    <span>35<i class="fa fa-comments"></i></span>
+    <span>52<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item advertising">
+    <div class="img-wrapper">
+    <img src="images/mockup11.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Book Mockup</h6>
+    <p class="info">
+    <span>12<i class="fa fa-comments"></i></span>
+    <span>23<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item packaging advertising">
+    <div class="img-wrapper">
+    <img src="images/mockup2.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Cards Mockup</h6>
+    <p class="info">
+    <span>24<i class="fa fa-comments"></i></span>
+    <span>15<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item branding">
+    <div class="img-wrapper">
+    <img src="images/mockup6.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Branding Mockup</h6>
+    <p class="info">
+    <span>15<i class="fa fa-comments"></i></span>
+    <span>11<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    <div class="grid-item branding packaging">
+    <div class="img-wrapper">
+    <img src="images/mockup12.jpg" alt="" class="img-fluid">
+    <div class="description-box hover3d-wrapper">
+    <a href="project-mixed-1.html" class="content d-flex align-items-end hover3d-child">
+    <div class="content-wrapper d-flex justify-content-between">
+    <h6>Branding Mockup</h6>
+    <p class="info">
+    <span>8<i class="fa fa-comments"></i></span>
+    <span>14<i class="far fa-heart"></i></span>
+    </p>
+    </div>
+    </a>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="testimonials large-section black_overlay" style="background-image: url('images/testimonials.jpg')">
+    <div class="container-fluid testimonials-wrapper">
+    <div class="swiper-container swiper-testimonials">
+    <div class="swiper-wrapper">
+    <div class="swiper-slide">
+    <div class="review-wrapper">
+    <div class="img-wrapper">
+    <img src="images/client1.jpg" alt="">
+    </div>
+    <h5 class="client">Alexandr Doe</h5>
+    <p class="position">CEO, Google</p>
+    <p class="review">
+    Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra
+    auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum
+    primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie
+    dui. Praesent blandit dolor sed non quam.
+    </p>
+    </div>
+    </div>
+    <div class="swiper-slide">
+    <div class="review-wrapper">
+    <div class="img-wrapper">
+    <img src="images/client2.jpg" alt="">
+    </div>
+    <h5 class="client">Alex Gray</h5>
+    <p class="position">CEO, Yahoo</p>
+    <p class="review">
+    Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper nulla facilisi.
+    Integer lacinia sollicitudin massa. Cras metus sed aliquet risus a tortor. Integer id
+    quam. Morbi mi. Quisque nisl felis, venenatis tristique, dignissim in, ultrices sit
+    amet, augue proin sodales libero augue eget diam.
+    </p>
+    </div>
+    </div>
+    <div class="swiper-slide">
+    <div class="review-wrapper">
+    <div class="img-wrapper">
+    <img src="images/client3.jpg" alt="">
+    </div>
+    <h5 class="client">Helena Miller</h5>
+    <p class="position">Designer, Envato</p>
+    <p class="review">
+    Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
+    himenaeos. Nam nec ante. Sed lacinia, urna non tincidunt mattis, tortor neque adipiscing
+    diam, a cursus ipsum ante quis turpis nulla facilisi ut fringilla suspendisse
+    potenti. Nunc feugiat mi a tellus consequat imperdiet.
+    </p>
+    </div>
+    </div>
+    <div class="swiper-slide">
+    <div class="review-wrapper">
+    <div class="img-wrapper">
+    <img src="images/client4.jpg" alt="">
+    </div>
+    <h5 class="client">Richard Smith</h5>
+    <p class="position">Founder &amp; CEO, Facebook</p>
+    <p class="review">
+    Curabitur sit amet mauris. Morbi in dui quis est pulvinar ullamcorper. Nulla facilisi.
+    Integer lacinia sollicitudin massa. Cras metus. Sed aliquet risus a tortor. Integer id
+    quam. Morbi mi quisque nisl felis, venenatis tristique, dignissim in, ultrices sit
+    amet, augue proin sodales libero eget ante.
+    </p>
+    </div>
+    </div>
+    <div class="swiper-slide">
+    <div class="review-wrapper">
+    <div class="img-wrapper">
+    <img src="images/client5.jpg" alt="">
+    </div>
+    <h5 class="client">Frank Horrigan</h5>
+    <p class="position">Developer, Envato</p>
+    <p class="review">
+    Sed lectus. Integer euismod lacus luctus magna. Quisque cursus, metus vitae pharetra
+    auctor, sem massa mattis sem, at interdum magna augue eget diam. Vestibulum ante ipsum
+    primis in faucibus orci luctus et ultrices posuere cubilia Curae; Morbi lacinia molestie
+    dui. Praesent blandit dolor sed non quam.
+    </p>
+    </div>
+    </div>
+    </div>
+    <div class="swiper-pagination-bullets-default"></div>
+    <div class="nav justify-content-between">
+    <div class="swiper-button-prev-testimonials"><i class="fa fa-angle-left"></i></div>
+    <div class="swiper-button-next-testimonials"><i class="fa fa-angle-right"></i></div>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <section class="recent-posts gray-section large-section" style="background-image: url('images/absurdity.png')">
+    <div class="container">
+    <div class="container">
+    <div class="row">
+    <div class="col d-flex justify-content-center">
+    <h2 class="section-title text-center title-divider">Recent Posts <span class="highlight">.</span></h2>
+    </div>
+    </div>
+    </div>
+    <div class="row blog-wrapper">
+    <div class="col-lg-4">
+    <div class="blog-card-wrapper hover3d-wrapper">
+    <div class="card-content hover3d-child">
+    <div class="card-blog-header">
+    <div class="img-wrapper d-flex align-items-center justify-content-center">
+    <a href="blog-single-post-sidebar-layout.html">
+    <img src="images/img-blog-1.jpg" alt="" class="img-fluid img">
+    <div class="tag bg-color-purple">Modern</div>
+    </a>
+    </div>
+    </div>
+    <div class="card-blog-body">
+    <h6><a href="#">Web Design trends</a></h6>
+    <p class="content">Lorem ipsum dolor sit amet, conctetur ping elit. A archcto codi
+    cumque
+    dissimos dobus, dolorum eos expbo id iusto lorum<a href="#">[...]</a></p>
+    <div class="card-blog-footer d-flex justify-content-between align-items-end">
+    <p class="date d-flex align-items-end">
+    <i class="fas fa-calendar-alt"></i>
+    April 25, 2022
+    </p>
+    <p class="info d-flex align-items-end">
+    <span><i class="fas fa-comment-alt"></i>26</span>
+    <span><i class="fas fa-heart"></i>15</span>
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4">
+    <div class="blog-card-wrapper hover3d-wrapper">
+    <div class="card-content hover3d-child">
+    <div class="card-blog-header">
+    <div class="img-wrapper d-flex align-items-center justify-content-center">
+    <a href="blog-single-post-sidebar-layout.html">
+    <img src="images/picture2.jpg" alt="" class="img-fluid img">
+    <div class="tag bg-color-blue">Lifestyle</div>
+    </a>
+    </div>
+    </div>
+    <div class="card-blog-body">
+    <h6><a href="#">STREET SHOt</a></h6>
+    <p class="content">Lorem ipsum dolor sit amet, conctetur ping elit. A archcto codi
+    cumque
+    dissimos dobus, dolorum eos expbo id iusto lorum<a href="#">[...]</a></p>
+    <div class="card-blog-footer d-flex justify-content-between align-items-end">
+    <p class="date d-flex align-items-end">
+    <i class="fas fa-calendar-alt"></i>
+    August 15, 2024
+    </p>
+    <p class="info d-flex align-items-end">
+    <span><i class="fas fa-comment-alt"></i>114</span>
+    <span><i class="fas fa-heart"></i>522</span>
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="col-lg-4">
+    <div class="blog-card-wrapper hover3d-wrapper">
+    <div class="card-content hover3d-child">
+    <div class="card-blog-header">
+    <div class="img-wrapper d-flex align-items-center justify-content-center">
+    <a href="blog-single-post-sidebar-layout.html">
+    <img src="images/picture1.jpg" alt="" class="img-fluid img">
+    <div class="tag bg-color-yellow">Design</div>
+    </a>
+    </div>
+    </div>
+    <div class="card-blog-body">
+    <h6><a href="celebritygraphixstudios.site/images/picture1.jpg">Destinations for photos</a></h6>
+    <p class="content">Explore stunning locations that inspire creativity and capture unforgettable moments.<a href="">[...]</a></p>
+    <div class="card-blog-footer d-flex justify-content-between align-items-end">
+    <p class="date d-flex align-items-center">
+    <i class="fas fa-calendar-alt"></i>
+    September 29, 2024
+    </p>
+    <p class="info d-flex align-content-center">
+    <span><i class="fas fa-comment-alt"></i>119</span>
+    <span><i class="fas fa-heart"></i>217</span>
+    </p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+    </section>
+    
+    <footer>
+    <div class="container-fluid footer-inner">
+    <div class="footer-top">
+    <div class="container footer-top-inner">
+    <p class="info-text">Create User-friendly website with Kyekyeku-tech</p>
+    <a href="https://wa.me/+233545454000">
+    <div class="footer-logo">
+    <img src="me.jpg" alt="Logo" class="img-fluid">
+    </div><br>
+    </a>
+    <div class="social-networks">
+    <p class="title">Social Networks: </p>
+    <ul class="social-list">
+    <li>
+    <a href="https://facebook.com/kyekyekutek">
+    <i class="fab fa-facebook-f" style="color: #3B5999;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://twitter.com/safo_oppong">
+    <i class="fab fa-twitter" style="color: #1DA1F2;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://thenelsonfoundation.online">
+    <i class="fa fa-laptop" style="color: #053EFF;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://wa.me/+233545454000">
+    <i class="fab fa-dribbble" style="color: #EA4C89;"></i>
+    </a>
+    </li>
+    <li>
+    <a href="https://instagram.com/kyekyekutek">
+    <i class="fab fa-instagram" style="color: #00B488;"></i>
+    </a>
+    </li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    <div class="footer-body">
+    <div class="container">
+    <div class="footer-sidebar">
+    <div class="row">
+    <div class="col-lg-4">
+    <div class="sidebar-widget text-widget">
+    <h6 class="sidebar-title">About Us</h6>
+    <p>At Celebrity Graphix Studios, we specialize in transforming your creative ideas into stunning digital products. Our dedicated team combines innovative design with technology to elevate your brand and engage your audience.</p>
+    <h6 class="sidebar-title">Subscribe newsletter</h6>
+    <form class="newsletter-form-widget">
+    <input type="email" placeholder="Your Email" required="">
+    <button type="submit"><i class="fa fa-envelope"></i></button>
+    </form>
+    </div>
+    </div>
+    <div class="col-lg-4">
+    <div class="sidebar-widget latest-posts-widget">
+    <h6 class="sidebar-title">Latest Blog Posts</h6>
+    <ul class="post-list">
+    <li class="post">
+    <a href="#">
+    <div class="img-wrapper">
+    <img src="images/blog-recent-2.jpg" alt="" class="img-fluid">
+    </div>
+    </a>
+    <div class="post-body">
+    <h6 class="post-title"><a href="#">Good design is obvious</a></h6>
+    <div class="description-box"><p class="date">25 January 2024 | by <a href="#">kns Graphix</a></p></div>
+    </div>
+    </li>
+    <li class="post">
+    <a href="#">
+    <div class="img-wrapper">
+    <img src="images/blog-recent-3.jpg" alt="" class="img-fluid">
+    </div>
+    </a>
+    <div class="post-body">
+    <h6 class="post-title"><a href="#">Guide to UX prototyping</a></h6>
+    <div class="description-box"><p class="date">26 April 2024 | by <a href="#">seth Yaw Ntim</a></p></div>
+    </div>
+    </li>
+    <li class="post">
+    <a href="#">
+    <div class="img-wrapper">
+    <img src="images/blog-recent-1.jpg" alt="" class="img-fluid">
+    </div>
+    </a>
+    <div class="post-body">
+    <h6 class="post-title"><a href="#">Social Media Today</a></h6>
+    <div class="description-box"><p class="date">27 April 2024 | by <a href="#">Frank Doe</a></p></div>
+    </div>
+    </li>
+    </ul>
+    </div>
+    </div>
+    <div class="col-lg-4">
+    <div class="sidebar-widget contact-info-widget">
+    <h6 class="sidebar-title">Contact Info</h6>
+    <p class="description">For inquiries, please reach out to us:</p>
+    <ul class="contact-info">
+    <li><i class="fa fa-map-marker"></i>
+    <p>193 West Africa, Kumasi, Ghana</p></li>
+    <li><i class="fa fa-envelope"></i><a href="mailto:sethyawntim@gmail.com">ceo@Celebritygraphixstudios.site</a></li>
+    <li><i class="fa fa-phone"></i><a href="tel:0554429097">+233554429097</a></li>
+    </ul>
+    </div>
+    </div>
+    </div>
+    </div>
+    <div class="copyright-wrapper">
+    <p class="copyright"><i class="fa fa-copyright"></i>2024 Celebritygraphixstudios. All rights reserved.</p>
+    </div>
+    </div>
+    </div>
+    </div>
+    </footer>
+    </div>
+    
+    
+    <script data-cfasync="false" src="js/email-decode.min.js"></script><script src="js/jquery-3.3.1.min.js"></script>
+    
+    <script src="js/aos.min.js"></script>
+    
+    <script src="js/parallax.min.js"></script>
+    
+    <script src="js/progressbar.min.js"></script>
+    
+    <script src="js/jquery.magnific-popup.min.js"></script>
+    
+    <script src="js/three.min.js"></script>
+    
+    <script src="js/projector.min.js"></script>
+    
+    <script src="js/canvas-renderer.min.js"></script>
+    
+    <script src="js/imagesloaded.pkgd.min.js"></script>
+    
+    <script src="js/anime.min.js"></script>
+    
+    <script src="js/isotope.pkgd.min.js"></script>
+    
+    <script src="js/TweenMax.min.js"></script>
+    
+    <script src="js/jquery.hover3d.min.js"></script>
+    
+    <script src="js/EasePack.min.js"></script>
+    
+    <script src="js/particles.min.js"></script>
+    
+    <script src="js/jscolor.min.js"></script>
+    
+    <script src="js/jquery.youtubebackground.min.js"></script>
+    
+    <script src="js/jquery.waypoints.min.js"></script>
+    
+    <script src="js/swiper.min.js"></script>
+    
+    <script src="js/main.js"></script>
+    <script defer="" src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" data-cf-beacon="{" rayid":"8ce5381a4ff0dcb8","servertiming":{"name":{"cfextpri":true,"cfl4":true}},"version":"2024.8.0","token":"1090037b28894284964e59fa2d60f89e"}"="" crossorigin="anonymous"></script>
+    
+    
+    </body></html>
